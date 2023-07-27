@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmayang0609
 - 👀 I’m interested in coding, cooking and sketching
-- 🌱 I’m currently learning go and magic cube
+- 🌱 I’m currently learning Go and magic cube
 - 💞️ I’m looking to collaborate on musical resonance
 - 📫 How to reach me ... emmayang()
 
